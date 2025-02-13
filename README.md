@@ -40,10 +40,10 @@ This repository contains a modern, fully responsive business landing page built 
 ## 📸 Screenshots
 
 ### 💻 Desktop View  
-![Desktop View](images/desktop-view.png)
+![Desktop View](Images/desktop-view.png)
 
 ### 📱 Mobile View  
-![Mobile View](images/mobile-view.png)
+![Mobile View](Images/mobile-view.png)
 
 ---
 
