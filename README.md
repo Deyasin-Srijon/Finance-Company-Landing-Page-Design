@@ -51,7 +51,7 @@ This repository contains a modern, fully responsive business landing page built 
 
 1️⃣ **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/landing-page.git
+   git clone https://github.com/Deyasin-Srijon/Finance-Company-Landing-Page-Design.git
    ```
 2️⃣ **Open `index.html` in your browser**  
 
